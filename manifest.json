@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "io.github.tomfaulkner.tuts-tomb",
+  "name": "Tut's Tomb",
+  "version": "1.0.0",
+  "author": "Tom Faulkner",
+  "license": "MIT",
+  "description": "Tut's Tomb for omarchy-shell: clear a pyramid by pairing cards that sum to 13. The deck is the Quattrolitaire art-deco car deck (MIT, Gavin Nugent). Summon with: omarchy-shell shell toggle io.github.tomfaulkner.tuts-tomb",
+  "kinds": ["panel", "bar-widget"],
+  "keepLoaded": true,
+  "entryPoints": {
+    "panel": "Panel.qml",
+    "barWidget": "BarWidget.qml"
+  },
+  "barWidget": {
+    "displayName": "Tut's Tomb",
+    "description": "Bar icon that toggles the Tut's Tomb table",
+    "category": "Fun",
+    "allowMultiple": false,
+    "defaultSection": "right"
+  }
+}
