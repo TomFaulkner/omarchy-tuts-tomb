@@ -1,5 +1,7 @@
 # Tut's Tomb
 
+![Tut's Tomb](preview.png)
+
 Pyramid solitaire for the [Omarchy](https://omarchy.org/) shell. Clear the
 tomb by pairing cards that add up to 13. The king of spades is dealt face up
 at the top of the pyramid: that card is Tut.
@@ -9,8 +11,6 @@ The deck is the art-deco car deck from
 used under the MIT license and copied unchanged. Felt, outlines and chrome
 take their colours from the active Omarchy theme, the same way that table does.
 See [NOTICE.md](NOTICE.md) and [cards/CREDITS.md](cards/CREDITS.md).
-
-![The Quattrolitaire deck, which this game plays with](cards/AS.png)
 
 ## Install
 
