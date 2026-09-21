@@ -18,14 +18,7 @@ See [NOTICE.md](NOTICE.md) and [cards/CREDITS.md](cards/CREDITS.md).
 omarchy plugin add https://github.com/TomFaulkner/omarchy-tuts-tomb.git --enable
 ```
 
-From this checkout:
-
-```sh
-./install.sh
-```
-
-That symlinks the repo into `~/.config/omarchy/plugins/` and enables the bar
-icon. Then click ▲, or:
+Then click ▲, or:
 
 ```sh
 omarchy-shell shell toggle io.github.tomfaulkner.tuts-tomb
